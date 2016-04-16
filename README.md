@@ -6,4 +6,6 @@ The folder “Preprocess” contains the python files which are used to preproce
 
 The folder “Sentiment analysis_NB_ME_SVM_Word2Vec” contains three python files implementing the Naïve Bayes model, Max Entropy Model, Support Vector Model and Word2Vec model. 
 
+The folder "LSTM and GRU" contains the python files implementing the LSTM and GRU models. It also contains the python file to convert the timestamp into real date.
+
 The file "sentiment_prediction_result.txt" contains the prediction result of twitter sentiment using our best model Max Entropy Classifier.
